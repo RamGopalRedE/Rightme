@@ -10,7 +10,7 @@ var (
 )
 func main() {
 
-	fmt.Println("mobiles", price)
+	fmt.Println("mobiles costing each one at", price)
 	fmt.Println("available quantity", quantity)
 
 }
